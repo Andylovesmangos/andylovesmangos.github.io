@@ -6,5 +6,5 @@ title: About
 
 <img style="width: 25%" src='assets/images/andy.jpeg'>
 
-This page tells you a little bit about me.
+This page tells you a little bit about me. I am a 
 
