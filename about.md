@@ -4,7 +4,7 @@ title: About
 ---
 # About page
 
-<img src='assets/images/andy.jpeg'>
+<img style="width: 25%" src='assets/images/andy.jpeg'>
 
 This page tells you a little bit about me.
 
