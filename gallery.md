@@ -11,6 +11,7 @@ title: Gallery
 <div class = "row">
     <div class = "col">
         <img src='assets/images/howitbe.jpeg'>
+        <img src='assets/images/andy.jpeg'>
     </div>
     <div class = "col">
         <img src='assets/images/Prom.jpeg'>
