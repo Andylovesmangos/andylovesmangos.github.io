@@ -120,7 +120,7 @@
                 }
             };
 
-            xhttp.open("GET", "database.xml", true);
+            xhttp.open("GET", "/database.xml", true);
             xhttp.send();
         }
 
@@ -160,7 +160,7 @@
                     display.push(`<li>${e.getElementsByTagName("name")[0].childNodes[0].nodeValue}</li>`);
 
                     if (e.getElementsByTagName("pic")[0] !== undefined) {
-                        display.push(`<img onclick="displayName('${e.getElementsByTagName("name")[0].childNodes[0].nodeValue}', '${e.getElementsByTagName("group")[0].childNodes[0].nodeValue}')" class="picture" src="${e.getElementsByTagName("pic")[0].childNodes[0].nodeValue}"></img>`);
+                        display.push(`<img onclick="displayName('assets/images/${e.getElementsByTagName("name")[0].childNodes[0].nodeValue}', '${e.getElementsByTagName("group")[0].childNodes[0].nodeValue}')" class="picture" src="${e.getElementsByTagName("pic")[0].childNodes[0].nodeValue}"></img>`);
                     }
                 }
             }
