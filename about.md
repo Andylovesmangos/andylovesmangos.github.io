@@ -6,5 +6,5 @@ title: About
 
 <img src='assets/images/andy.jpeg>
 
-This page tells you a little bit about me.
+<p>This page tells you a little bit about me.</p>
 
