@@ -17,10 +17,9 @@ title: About
 
         element.hidden = false;
     }
-</script>
+    </script>
 
 
 <img style="width: 25%" src="assets/images/andy.jpeg">
 
-This page tells you a little bit about me.
-
+This page tells you a little about me. I played CS:GO competitively for the University of Maryland for four years and managed the community within the esports organization within the university. In addition to competing, I also enjoy videos games casually. I also enjoy playing and watching basketball, specifically the NBA. My newest hobby recently is chess! I strongly believe CS:GO, basketball, and chess have abundant and interesting parallels to each other and life about positioning, tactics, and strategy.
