@@ -22,4 +22,5 @@ title: About
 
 <img style="width: 25%" src="assets/images/andy.jpeg">
 
-This page tells you a little about me. I played CS:GO competitively for the University of Maryland for four years and managed the community within the esports organization within the university. In addition to competing, I also enjoy videos games casually. I also enjoy playing and watching basketball, specifically the NBA. My newest hobby recently is chess! I strongly believe CS:GO, basketball, and chess have abundant and interesting parallels to each other and life about positioning, tactics, and strategy.
+<t style = "width: 50%">
+This page tells you a little about me. I played CS:GO competitively for the University of Maryland for four years and managed the community within the esports organization within the university. In addition to competing, I also enjoy videos games casually. I also enjoy playing and watching basketball, specifically the NBA. My newest hobby recently is chess! I think chess, basketball, and CS:GO all teach valuable tactical skills like strategy, positioning, and tactics.</t>
