@@ -34,5 +34,5 @@ This page tells you a little about me. I played CS:GO competitively for the Univ
 
 <div style = "width:70%">
 <h2> TIC Summer Camp - Programming Counselor (Jun 2017 - Aug 2017) </h2>
-<p class = "tab"> Responsible for four campers at all times on two computers during the day. Taught Java and LOGO (programming languages) to kids from ages 7-16 <p>
+<p class = "tab"> Responsible for four campers at all times on two computers during the day. Taught Java and LOGO (programming languages) to kids from ages 7-16 </p>
 </div>
