@@ -23,5 +23,16 @@ title: About
 <img style="width: 25%" src="assets/images/andy.jpeg">
 
 <div style = "width: 50%">
-<t>
-This page tells you a little about me. I played CS:GO competitively for the University of Maryland for four years and managed the community within the esports organization within the university. In addition to competing, I also enjoy videos games casually. I also enjoy playing and watching basketball, specifically the NBA. My newest hobby recently is chess! I think chess, basketball, and CS:GO all teach valuable tactical skills like strategy, positioning, and tactics.</t></div>
+<p style = "margin-left: 10px; font-size: 1.1em">
+This page tells you a little about me. I played CS:GO competitively for the University of Maryland for four years and managed the community within the esports organization of UMD. In addition to competing, I also enjoy videos games casually, as well as playing and watching basketball, especially the NBA. My newest hobby recently is chess! I think chess, basketball, and CS:GO are all beautiful in their own ways and teach valuable skills like strategy, positioning, and tactics.</p></div>
+
+<br><br>
+# Work Experience
+<div style = "width:50%" >
+<h2>National Instutite of Standards and Technology (NIST) - Domestic Guest Researcher (Aug 2021 - Oct 2021) </h2>
+<p class="tab"> Tasked with annotating English text data by labeling noun phrases referring to entities of interest and coreference between noun phrases, and checking other annotators’ annotation for quality assurance. </p></div>
+
+<div style = "width:50%">
+<h2> TIC Summer Camp - Programming Counselor (Jun 2017 - Aug 2017) </h2>
+<p class = "tab"> Responsible for four campers at all times on two computers during the day. Taught Java and LOGO (programming languages) to kids from ages 7-16
+</div>
