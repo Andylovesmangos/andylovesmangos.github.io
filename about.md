@@ -24,7 +24,7 @@ title: About
 
 <div style = "width: 50%">
 <p style = "margin-left: 10px; font-size: 1.1em">
-This page tells you a little about me. I played CS:GO competitively for the University of Maryland for four years and managed the community within the esports organization of UMD. In addition to competing, I also enjoy videos games casually, as well as playing and watching basketball, especially the NBA. My newest hobby recently is chess! I think love drawing parallels especially with these hobbies, in terms of strategy, positioning, and tactics.</p></div>
+This page tells you a little about me. I played CS:GO competitively for the University of Maryland for four years and managed the community within the esports organization of UMD. In addition to competing, I also enjoy videos games casually, as well as playing and watching basketball, especially the NBA. My newest hobby recently is chess! I love drawing parallels especially with these hobbies, in terms of strategy, positioning, and tactics.</p></div>
 
 <br><br>
 # Work Experience
