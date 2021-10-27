@@ -28,11 +28,11 @@ This page tells you a little about me. I played CS:GO competitively for the Univ
 
 <br><br>
 # Work Experience
-<div style = "width:50%" >
+<div style = "width:70%" >
 <h2>National Instutite of Standards and Technology (NIST) - Domestic Guest Researcher (Aug 2021 - Oct 2021) </h2>
 <p class="tab"> Tasked with annotating English text data by labeling noun phrases referring to entities of interest and coreference between noun phrases, and checking other annotators’ annotation for quality assurance. </p></div>
 
-<div style = "width:50%">
+<div style = "width:70%">
 <h2> TIC Summer Camp - Programming Counselor (Jun 2017 - Aug 2017) </h2>
 <p class = "tab"> Responsible for four campers at all times on two computers during the day. Taught Java and LOGO (programming languages) to kids from ages 7-16
 </div>
