@@ -17,7 +17,7 @@ Short java program for a paint program. Uses java packages like swing and awt. I
 This site is hosted on github pages, and built using jekyll, a static-site generator. Check out how this site was set up. I did not use a template which is common, and instead made most of the pages (with greater ease thanks to jekyll though).
   
 <li> <h1> <a href="https://andylovesmangos.github.io/assets/images/Press_Release.pdf"> Affordable Project </a> </h1> </li>
-A software engineering project for the non-profit organization Affordable during my time in CMSC435 (Software Engineering). 
+A software engineering project for the non-profit organization Affordable during my time in CMSC435 (<a href="https://seam.cs.umd.edu/">Software Engineering</a>). 
   
 </ol>
 
