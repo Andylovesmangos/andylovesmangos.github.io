@@ -19,7 +19,7 @@ This site is hosted on github pages, and built using jekyll, a static-site gener
 <li> <h1> <a href="https://andylovesmangos.github.io/assets/images/Press_Release.pdf"> Affordable Project </a> </h1> </li>
 A software engineering project for the non-profit organization Affordable during my time in CMSC435 (<a href="https://seam.cs.umd.edu/">Software Engineering</a>). <a href= "https://blog.affordhealth.org/2022/01/06/ai-filtering-algorithms-predict-best-candidate-for-medical-aid/"> Blog Post </a>
  
-<li> <h1> <a href="https://github.com/Andylovesmangos/Question-AnsweringNLP"> Question Answering for Quizbowl Questions </a> </h1> </li>
+<li> <h1> <a href="https://github.com/Andylovesmangos/Question-AnsweringNLP"> Question Answering for Quizbowl </a> </h1> </li>
 A question-answering system that answers questions in quizbowl format, where information in the questions get increasingly easier as the text goes on. The system buzzes in when it decides its answer is accurate enough. Final Project for CMSC470.
   
 </ol>
