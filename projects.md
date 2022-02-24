@@ -22,6 +22,7 @@ A software engineering project for the non-profit organization Affordable during
 <li> <h1> <a href="https://github.com/Andylovesmangos/Question-AnsweringNLP"> Question Answering for Quizbowl </a> </h1> </li>
 A question-answering system that answers questions in quizbowl format, where information in the questions get increasingly easier as the text goes on. The system buzzes in when it decides its answer is accurate enough. 
   
+  
 Final Project for CMSC470 (Natural Language Processing).
   
 </ol>
