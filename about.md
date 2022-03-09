@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-<div class="embed"> <h1 style="font-family: Arial, Helvetica, sans-serif; color:rgb(226, 162, 43)"> <b> Current Obsession </b> </h1>
+<div class="embed"> <h1 style="font-family: Arial, Helvetica, sans-serif; color:rgb(180, 68, 68)"> <b> Current Obsession </b> </h1>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3aQaoIBLw0FUpEouiUXybc?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 <h1 style="font-family: Arial, Helvetica, sans-serif; color:rgb(226, 162, 43);font-size:120%"> <b onclick="appear()"> Check out my playlist (click me) </b> </h1>
 <iframe src="https://open.spotify.com/embed/playlist/1LMHQSsiXkxztN9VXCarNF" width = "300px" height="580" frameBorder="0" allowtransparency="true" allow="encrypted-media" hidden id="appear"></iframe>
