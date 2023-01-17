@@ -29,6 +29,11 @@ This page tells you a little about me. I played CS:GO competitively for the Univ
 
 <br><br>
 # Work Experience
+
+<div style = "width:70%" >
+<h2> In-Depth Engineering - Software Engineer (Aug 2021 - Oct 2021) </h2>
+<p class="tab"> Developing Software in Java, C++ </p></div>
+
 <div style = "width:70%" >
 <h2>National Instutite of Standards and Technology (NIST) - Domestic Guest Researcher (Aug 2021 - Oct 2021) </h2>
 <p class="tab"> Tasked with annotating English text data by labeling noun phrases referring to entities of interest and coreference between noun phrases, and checking other annotators’ annotation for quality assurance. </p></div>
