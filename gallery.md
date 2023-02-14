@@ -9,6 +9,11 @@ title: Gallery
 
 <br>
 <div class = "row">
+
+    <div class = "col">
+        <img src='assets/images/andy_lan1.png'>
+        <img src='assets/images/andy_lan2.png'>
+    </div>
     <div class = "col">
         <img src='assets/images/howitbe.jpeg'>
         <img src='assets/images/andy.jpeg'>
