@@ -31,7 +31,7 @@ This page tells you a little about me. I played CS:GO competitively for the Univ
 # Work Experience
 
 <div style = "width:70%" >
-<h2> In-Depth Engineering - Software Engineer (Aug 2021 - Oct 2021) </h2>
+<h2> In-Depth Engineering - Software Engineer (June 2022 - Feb 2024) </h2>
 <p class="tab"> Developing Software in Java, C++ </p></div>
 
 <div style = "width:70%" >
